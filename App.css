@@ -1,0 +1,11 @@
+.App{
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.header{
+  color:chocolate;
+}
